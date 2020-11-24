@@ -2,8 +2,6 @@
 
 ## Shell Scripting Tutorial
 
-![Shell Scripting](https://github.com/cryptDecoder/Shell-Scripting/blob/main/assets/sai-kiran-anagani-Tjbk79TARiE-unsplash.jpg)
-
 ### What is Shell Script
 
 A Shell script is a list of commands in a computer program that is run by the Unix Shell which is a command-line interpreter.

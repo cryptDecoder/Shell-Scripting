@@ -7,7 +7,7 @@
 ### What is Shell Script
 
 A Shell script is a list of commands in a computer program that is run by the Unix Shell which is a command-line interpreter.
-for example of simple shell script
+for example of a simple shell script
 
 ```
 #! /bin/bash

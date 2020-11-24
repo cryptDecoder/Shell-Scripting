@@ -2,7 +2,7 @@
 
 ## Shell Scripting Tutorial
 
-![](Shell-Scripting\assets\sai-kiran-anagani-Tjbk79TARiE-unsplash.jpg)
+![Shell Scripting](https://github.com/cryptDecoder/Shell-Scripting/blob/main/assets/sai-kiran-anagani-Tjbk79TARiE-unsplash.jpg)
 
 ### What is Shell Script
 
